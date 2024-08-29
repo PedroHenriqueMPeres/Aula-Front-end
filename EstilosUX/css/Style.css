@@ -23,6 +23,7 @@ nav {
     height: 100%;
     display: flex;
     gap: 15px;
+    align-items: end;
 }
 
 nav a {
@@ -68,5 +69,5 @@ main a {
 
 .header-flex {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
